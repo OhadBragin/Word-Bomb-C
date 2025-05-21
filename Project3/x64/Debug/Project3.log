@@ -1,0 +1,14 @@
+﻿  funcs.c
+  main.c
+\\mac\Home\Downloads\2.2\Project3\Project3\funcs.c(1511,61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\mac\Home\Downloads\2.2\Project3\Project3\funcs.c(1549,41): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+\\mac\Home\Downloads\2.2\Project3\Project3\funcs.c(1592,45): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+\\mac\Home\Downloads\2.2\Project3\Project3\funcs.c(1627,23): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+\\mac\Home\Downloads\2.2\Project3\Project3\funcs.c(1639,45): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+\\mac\Home\Downloads\2.2\Project3\Project3\funcs.c(1657,45): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+\\mac\Home\Downloads\2.2\Project3\Project3\funcs.c(1699,45): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+\\mac\Home\Downloads\2.2\Project3\Project3\funcs.c(1744,41): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+\\mac\Home\Downloads\2.2\Project3\Project3\funcs.c(1793,45): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+\\mac\Home\Downloads\2.2\Project3\Project3\main.c(25,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Project3.vcxproj -> \\Mac\Home\Downloads\2.2\Project3\x64\Debug\Project3.exe

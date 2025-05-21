@@ -1,0 +1,16 @@
+﻿  funcs.c
+F:\Coding\HIT\IntoToCS\Projects\Word Bomb C\Project3\funcs.c(1527,61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+F:\Coding\HIT\IntoToCS\Projects\Word Bomb C\Project3\funcs.c(1565,41): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+F:\Coding\HIT\IntoToCS\Projects\Word Bomb C\Project3\funcs.c(1608,45): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+F:\Coding\HIT\IntoToCS\Projects\Word Bomb C\Project3\funcs.c(1643,23): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+F:\Coding\HIT\IntoToCS\Projects\Word Bomb C\Project3\funcs.c(1658,45): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+F:\Coding\HIT\IntoToCS\Projects\Word Bomb C\Project3\funcs.c(1676,45): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+F:\Coding\HIT\IntoToCS\Projects\Word Bomb C\Project3\funcs.c(1718,45): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+F:\Coding\HIT\IntoToCS\Projects\Word Bomb C\Project3\funcs.c(1763,41): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+F:\Coding\HIT\IntoToCS\Projects\Word Bomb C\Project3\funcs.c(1812,45): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+  Generating code
+  1 of 49 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project3.vcxproj -> F:\Coding\HIT\IntoToCS\Projects\Word Bomb C\x64\Release\Project3.exe
