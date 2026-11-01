@@ -1,0 +1,9 @@
+.vs/
+x64/
+Release/
+Debug/
+*.exe
+*.obj
+*.pdb
+*.bin
+used_words.txt
