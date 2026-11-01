@@ -54,13 +54,13 @@ The game saves your high score, average answer time and longest combo for each m
 
 ## Running the game
 
-The game is Windows only and is built from source. From a Visual Studio Developer Command Prompt:
+The game is Windows only and is built from source with gcc ([MinGW-w64](https://www.mingw-w64.org/)):
 
 ```bash
 git clone https://github.com/OhadBragin/Word-Bomb-C.git
 cd Word-Bomb-C
-cl main.c funcs.c /Fe:WordBomb.exe
-WordBomb.exe
+gcc main.c funcs.c -o WordBomb.exe
+./WordBomb.exe
 ```
 
 Run it from the repo folder, because the game looks for `wordBase.txt` and its save files in the current folder. Use a terminal that supports ANSI colors, such as Windows Terminal.

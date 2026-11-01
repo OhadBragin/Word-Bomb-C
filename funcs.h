@@ -106,4 +106,6 @@ void displayHighScores();
 void loadAvgTimes(AvgTime_t* avgTime);
 void saveAvgTime(AvgTime_t* avgTime);
 void printSurvivalStats();
+void loadLongestCombo(LongestCombo_t* longestCombo);
+void saveLongestCombo(LongestCombo_t* longestCombo);
 #endif
